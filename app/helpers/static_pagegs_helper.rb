@@ -1,0 +1,2 @@
+module StaticPagegsHelper
+end

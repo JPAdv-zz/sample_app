@@ -1,4 +1,8 @@
 SampleApp::Application.routes.draw do
+  get "static_pagegs/home"
+
+  get "static_pagegs/help"
+
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
