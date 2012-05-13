@@ -1,6 +1,5 @@
 SampleApp::Application.routes.draw do
-
-  get "users/signup"
+  resources :users
 
   root to: 'static_pagegs#home'
 
